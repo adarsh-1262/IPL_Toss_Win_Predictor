@@ -42,9 +42,9 @@ Built using **Python**, **scikit-learn**, **pandas**, and **Streamlit**, this pr
 ```
 
 📦 IPL Toss Win Predictor
-├── ipl\_toss\_win\_app.py       # Streamlit web app
-├── ml\_win\_predictor.py       # ML training script
-├── toss\_win\_model.pkl        # Saved logistic regression model
+├── ipl_toss_win_app.py       # Streamlit web app
+├── ml_win_predictor.py       # ML training script
+├── toss_win_model.pkl        # Saved logistic regression model
 ├── columns.pkl               # Feature column encodings
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project documentation
@@ -116,10 +116,10 @@ This will:
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Adarsh Singh](https://www.linkedin.com/in/adarshsinggh)
+Made with ❤️ by [Adarsh Singh](https://www.linkedin.com/in/adarsh-singgh)
 
-* 📌 GitHub: [@adarshsinggh](https://github.com/adarshsinggh)
-* 🌐 Portfolio: *Coming Soon*
+* 📌 GitHub: [@adarshsinggh](https://github.com/adarsh-1262)
+* 🌐 Portfolio: [Adarsh Singh](https://adarshsingh07.netlify.app/)
 
 ---
 
@@ -140,5 +140,4 @@ Pull requests are welcome. Feel free to fork the repo and submit improvements!
 
 * IPL dataset sourced from Kaggle (manually cleaned and preprocessed)
 * Thanks to the open-source community for tools like scikit-learn & Streamlit
-
-```
+---
