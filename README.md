@@ -118,8 +118,8 @@ This will:
 
 Made with ❤️ by [Adarsh Singh](https://www.linkedin.com/in/adarsh-singgh)
 
-* 📌 GitHub: [@adarshsinggh](https://github.com/adarsh-1262)
-* 🌐 Portfolio: [Adarsh Singh](https://adarshsingh07.netlify.app/)
+* 📌 GitHub: [Github](https://github.com/adarsh-1262)
+* 🌐 Portfolio: [Portfolio](https://adarshsingh07.netlify.app/)
 
 ---
 
